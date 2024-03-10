@@ -2,7 +2,7 @@
 
 ## Purposes Of The Capstone Project
 
-The major aim of this project is to gain insight into the sales data of Amazon to understand the different factors that affect sales of the different branches.
+The major aim of this project is to gain insight into Amazon's sales data to understand the different factors that affect sales in different branches.
 
 ### About Data:
 
